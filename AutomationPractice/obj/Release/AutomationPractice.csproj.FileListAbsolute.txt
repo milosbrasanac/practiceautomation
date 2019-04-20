@@ -1,0 +1,12 @@
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\AutomationPractice.dll.config
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\AutomationPractice.dll
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\AutomationPractice.pdb
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\nunit.framework.dll
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\TechTalk.SpecFlow.dll
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\WebDriver.dll
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\nunit.framework.xml
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\WebDriver.xml
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\obj\Release\AutomationPractice.csprojResolveAssemblyReference.cache
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\obj\Release\AutomationPractice.dll
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\obj\Release\AutomationPractice.pdb
+c:\Users\Milos\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Release\SeleniumExtras.WaitHelpers.dll
