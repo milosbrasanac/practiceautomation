@@ -85,15 +85,18 @@ namespace AutomationPractice.Steps
 
         }
 
-        [When(@"submits the sign up form")]
+        [StepDefinition(@"submits the sign up form")]
         public void WhenSubmitsTheSignUpForm()
+       
         {
-            ScenarioContext.Current.Pending();
+            CreateAccountPage ap = new CreateAccountPage(Driver);
+            ut.ClickOnElement(ap.registerbutton);
         }
+
         [Then(@"user's full name is displayed")]
         public void ThenUserSFullNameIsDisplayed()
         {
-            ScenarioContext.Current.Pending();
+        
         }
 
     }
