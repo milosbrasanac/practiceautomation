@@ -15,13 +15,15 @@ namespace AutomationPractice.Pages
         public By username = By.Id("email");
         public By password = By.Id("passwd");
         public By signInBtn = By.Id("SubmitLogin");
-        //public By  
+        public By email = By.Id("email_create");
+        public By signUpBtn = By.Id("SubmitCreate");
 
         public AuthenticationPage(IWebDriver driver)
         {
             this.driver = driver;
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(60));
-            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementExists(By.Id("authentication")));      
+            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementExists(By.Id("authentication")));
         }
+
     }
 }

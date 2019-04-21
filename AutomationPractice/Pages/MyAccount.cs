@@ -8,18 +8,21 @@ using System.Threading.Tasks;
 
 namespace AutomationPractice.Pages
 {
-    class Homepage
+    class MyAccount
     {
         readonly IWebDriver driver;
 
-        public By signIn = By.ClassName("login");
-        public Homepage(IWebDriver driver)
+        public By signout = By.ClassName("logout");
+
+        public By Mywishlistbutton = By.ClassName("lnk_wishlist");
+
+        public MyAccount(IWebDriver driver)
         {
             this.driver = driver;
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(60));
-            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementExists(By.Id("columns-container")));
+            wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementExists(By.Id("my-account")));
+
 
         }
-
     }
 }

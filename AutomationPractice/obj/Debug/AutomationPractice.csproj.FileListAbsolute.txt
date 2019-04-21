@@ -10,3 +10,17 @@ c:\users\korisnik\documents\visual studio 2015\Projects\AutomationPractice\Autom
 C:\Users\korisnik\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Debug\AutomationPractice.dll.config
 C:\Users\korisnik\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Debug\TechTalk.SpecFlow.dll
 C:\Users\korisnik\Documents\Visual Studio 2015\Projects\AutomationPractice\AutomationPractice\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\AutomationPractice.dll.config
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\AutomationPractice.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\AutomationPractice.pdb
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\nunit.framework.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\WebDriver.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\nunit.framework.xml
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\WebDriver.xml
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\obj\Debug\AutomationPractice.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\obj\Debug\AutomationPractice.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\obj\Debug\AutomationPractice.pdb
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\WebDriver.Support.dll
+C:\Users\Milos\Source\Repos\practiceautomation\AutomationPractice\bin\Debug\WebDriver.Support.xml
