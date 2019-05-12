@@ -51,5 +51,11 @@ namespace AutomationPractice.Helpers
             selectElement.SelectByText(option);
 
         }
+        public string ReturnTextFromElement(By selector)
+        {
+            return driver.FindElement(selector).GetAttribute("textContent");
+
+        }
+        
     }
 }
